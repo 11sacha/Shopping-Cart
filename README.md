@@ -1,0 +1,1 @@
+## Shopping-Cart developed with React & Typescript, designed with Bootstrap
